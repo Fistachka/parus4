@@ -12,6 +12,8 @@
 Ялта, август и мы с тобою влюблены
 Яхта, парус, в этом мире только мы одни
 Ялта, август и мы с тобою влюблены
+Яхта, парус, в этом мире только мы одни
+Ялта, август и мы с тобою влюблены
 
 Предыдущий урок:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/a275781f-35bd-472d-a465-c63afe38d02a =200x200)
@@ -25,6 +27,8 @@ stolbitsa.com/fistachka/parus3<br><br>
 <iframe width="315" height="560" src="https://www.youtube.com/embed/ya-kgxdHwmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
+YAhta, parus, v etom mire tol'ko my odni
+YAlta, avgust i my s toboyu vlyubleny
 YAhta, parus, v etom mire tol'ko my odni
 YAlta, avgust i my s toboyu vlyubleny
 YAhta, parus, v etom mire tol'ko my odni
