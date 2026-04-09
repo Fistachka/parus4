@@ -3,7 +3,7 @@
 "Наше лето" группа "Валентин Стрыкало" 2011г. 2 припев
 ![8](https://github.com/user-attachments/assets/a8841cbc-2e37-486f-bde9-04af37e8d02f)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/VZ6PBhKI7B8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/b5jBQRk2JJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Яхта, парус, в этом мире только мы одни
@@ -24,7 +24,7 @@ stolbitsa.com/fistachka/parus3<br><br>
 "Our Summer" by the band "Valentin Strykalo" (2011), 4 st verse
 ![8](https://github.com/user-attachments/assets/a8841cbc-2e37-486f-bde9-04af37e8d02f)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/ya-kgxdHwmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/y_iSD2lpb5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 YAhta, parus, v etom mire tol'ko my odni
