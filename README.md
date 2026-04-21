@@ -4,7 +4,7 @@
 ![8](https://github.com/user-attachments/assets/a8841cbc-2e37-486f-bde9-04af37e8d02f)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/b5jBQRk2JJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRCpC8H9TTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Яхта, парус, в этом мире только мы одни
 Ялта, август и мы с тобою влюблены
@@ -25,7 +25,7 @@ stolbitsa.com/fistachka/parus3<br><br>
 ![8](https://github.com/user-attachments/assets/a8841cbc-2e37-486f-bde9-04af37e8d02f)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/y_iSD2lpb5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yX8TF_wsNB8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 YAhta, parus, v etom mire tol'ko my odni
 YAlta, avgust i my s toboyu vlyubleny
