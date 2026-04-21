@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>parus4</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="Fistachka" repo="klen"/>
   <readme>
-    <ru>9bb316cc24e999e51054f306afc6753deaa3e0351beb43ff07d7c31887939706</ru>
-    <en>40661a5dbc37b84720ced895af4aa6cfaeec69f8489b58bd16ae0cda84ccc4a6</en>
+    <ru>36e0d1409dbff71ce5bad4c9f09ac748855207a6310a784bd63b79cefdfad760</ru>
+    <en>04c282b5ca2ae34bc5ebd741615277a4053b095284c8ab2889db8bbb133e5e1a</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
